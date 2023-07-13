@@ -50,13 +50,13 @@
     {
         "id":9,
         "title":"Monster Truck",
-        "price":"150.000",
+        "price":"150000",
         "img":"./monster.jpg"
     },
     {
         "id":10,
         "title":"Ferrari",
-        "price":250.000,
+        "price":250000,
         "img":"./ferrari.jpg"
     },
     {
