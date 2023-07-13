@@ -1,0 +1,110 @@
+[
+    {
+        "id":1,
+        "title":"Netflix Subscription",
+        "price":12,
+        "img":"./netflix.jpg"
+    },
+    {
+        "id":2,
+        "title":"Air Jordan",
+        "price":130,
+        "img":"./jordan.jpg"
+    },
+    {
+        "id":3,
+        "title":"Nintendo Switch",
+        "price":299,
+        "img":"./switch.jpg"
+    },
+    {
+        "id":4,
+        "title":"Drone",
+        "price":350,
+        "img":"./drone.jpg"
+    },
+    {
+        "id":5,
+        "title":"Bike",
+        "price":400,
+        "img":"./bike.jpg"
+    },
+    {
+        "id":6,
+        "title":"Playstation 5",
+        "price":499,
+        "img":"./ps5.jpeg"
+    },
+    {
+        "id":7,
+        "title":"Xbox Series X",
+        "price":499,
+        "img":"./xbox.jpeg"
+    },
+    {
+        "id":8,
+        "title":"Jet Ski",
+        "price":12000,
+        "img":"./jetski.jpg"
+    },
+    {
+        "id":9,
+        "title":"Monster Truck",
+        "price":"150.000",
+        "img":"./monster.jpg"
+    },
+    {
+        "id":10,
+        "title":"Ferrari",
+        "price":250.000,
+        "img":"./ferrari.jpg"
+    },
+    {
+        "id":11,
+        "title":"Gold Bar",
+        "price":700000,
+        "img":"./gold.jpg"
+    },
+    {
+        "id":12,
+        "title":"Mcdonalds Franchise",
+        "price":1500000,
+        "img":"./mcdonalds.jpg"
+    },
+    {
+        "id":13,
+        "title":"Yacht",
+        "price":8500000,
+        "img":"./yacht.jpg"
+    },
+    {
+        "id":14,
+        "title":"M1 Abrams",
+        "price":10000000,
+        "img":"./m1.jpg"
+    },
+    {
+        "id":15,
+        "title":"Formula 1",
+        "price":15000000,
+        "img":"./formula.jpg"
+    },
+    {
+        "id":16,
+        "title":"Helicopter",
+        "price":30000000,
+        "img":"./helicopter.jpg"
+    },
+    {
+        "id":17,
+        "title":"Boeing 747",
+        "price":150000000,
+        "img":"./boeing.jpg"
+    },
+    {
+        "id":18,
+        "title":"Cruise Ship",
+        "price":950000000,
+        "img":"./cruise.jpg"
+    }
+]
